@@ -29,5 +29,8 @@
     <ClCompile Include="AVXExamples.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="funcTime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
